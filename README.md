@@ -13,5 +13,5 @@ I'll be posting each of these projects, their code and demo links below. Excited
 <h5>Demo link:</h5> https://replit.com/@DeborahOtuagoma/Tip-Calculator#main.py
 
 <h3>Project 3: Hello World with Flask</h3>
-<h5>Description:</h5> This is my first web server created with Flask 
+<h5>Description:</h5> This is my first web server created with Flask. 
 <h5>Demo link:</h5> 
