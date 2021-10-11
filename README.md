@@ -11,3 +11,7 @@ I'll be posting each of these projects, their code and demo links below. Excited
 <h3>Project 2: Tip Calculator</h3>
 <h5>Description:</h5> This is an app that'll calculate tips that each person should pay based on a total amount given amount + tip percentage. 
 <h5>Demo link:</h5> https://replit.com/@DeborahOtuagoma/Tip-Calculator#main.py
+
+<h3>Project 3: Hello World with Flask</h3>
+<h5>Description:</h5> This is my first web server created with Flask 
+<h5>Demo link:</h5> 
