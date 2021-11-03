@@ -12,6 +12,10 @@ I'll be posting each of these projects, their code and demo links below. Excited
 <h5>Description:</h5> This is an app that'll calculate tips that each person should pay based on a total amount given amount + tip percentage. 
 <h5>Demo link:</h5> https://replit.com/@DeborahOtuagoma/Tip-Calculator#main.py
 
+<h3>Project 3: </h3>
+<h5>Description:</h5> 
+<h5>Demo link:</h5> 
+
 <h3>Project 4: </h3>
 <h5>Description:</h5> 
 <h5>Demo link:</h5> 
@@ -21,10 +25,6 @@ I'll be posting each of these projects, their code and demo links below. Excited
 <h5>Demo link:</h5> 
 
 <h3>Project 6: </h3>
-<h5>Description:</h5> 
-<h5>Demo link:</h5> 
-
-<h3>Project 7: </h3>
 <h5>Description:</h5> 
 <h5>Demo link:</h5> 
 
